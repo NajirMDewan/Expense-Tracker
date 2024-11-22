@@ -1,0 +1,43 @@
+# Xcode
+*.xcuserdata/
+*.xcworkspace/
+DerivedData/
+build/
+*.DS_Store
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Archives
+*.xcarchive
+
+# Environment files
+*.env
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Exclude Firebase config
+GoogleService-Info.plist
